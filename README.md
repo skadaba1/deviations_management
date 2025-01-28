@@ -9,7 +9,7 @@
 ## Install
 Run fastapi app with terminal command <br />
 
-fastapi dev app.py <br />
+**fastapi dev app.py** <br />
 
 
 ## Demo
