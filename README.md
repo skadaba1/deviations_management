@@ -7,10 +7,10 @@
 4. Prompt to automatically draft reports, codnuct fishbone analysis, and more!
 
 ## Install
-run fastapi app with terminal command 
-'''
-fastapi dev app.py
-'''
+Run fastapi app with terminal command <br />
+
+fastapi dev app.py <br />
+
 
 ## Demo
 https://drive.google.com/file/d/1jH-XFv1WLV5SZNLqmjcTLBkUqyp50LwQ/view?usp=sharing
